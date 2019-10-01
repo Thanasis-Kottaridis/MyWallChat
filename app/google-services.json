@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "145457131484",
+    "firebase_url": "https://mywallchat-4e54a.firebaseio.com",
+    "project_id": "mywallchat-4e54a",
+    "storage_bucket": "mywallchat-4e54a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145457131484:android:604e26739683fe24",
+        "android_client_info": {
+          "package_name": "com.unipi.kottarido.mywallchat.mywallchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145457131484-6p0lthl867k9qpo72bvt0vanpsh1tcu6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.unipi.kottarido.mywallchat.mywallchat",
+            "certificate_hash": "0bce1596448547e1b4e2e9bbd1ba7d5dd016f62f"
+          }
+        },
+        {
+          "client_id": "145457131484-mtvsgaf941r9s5g88dm8ovbufk2gfvre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRFVU26bHmZG6xyfLbqrjZShN-s13yjhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145457131484-mtvsgaf941r9s5g88dm8ovbufk2gfvre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

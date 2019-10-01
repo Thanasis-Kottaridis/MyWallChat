@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyWallChat</string>
+    <string name="manage_account">Manage Account</string>
+
+    <string name="navigation_drawer_open">Open navigation open</string>
+    <string name="navigation_drawer_close">Open navigation close</string>
+
+</resources>
